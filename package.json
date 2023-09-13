@@ -13,6 +13,7 @@
   "dependencies": {
     "@reduxjs/toolkit": "^1.9.5",
     "axios": "^1.5.0",
+    "dotenv": "^16.3.1",
     "path": "^0.12.7",
     "prettier": "^3.0.3",
     "react": "^18.2.0",
